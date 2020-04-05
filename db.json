@@ -11,8 +11,8 @@
       "id": 000000,
       "status": "fail",
       "data": {
-        "message": "Invalid DSW '000000'"
+        "message": "INELIGIBLE_FOR_TESTING"
       }
     }
   ]
-} 
+}
