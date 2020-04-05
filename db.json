@@ -2,7 +2,8 @@
   "dsw": [
     {
       "id": 123456,
-      "valid": true
+      "valid": true,
+      "token": "3adbbad1791fbae3ec908894c4963870"
     }
   ]
 } 
