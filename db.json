@@ -6,6 +6,13 @@
       "data": {
         "token": "3adbbad1791fbae3ec908894c4963870"
       }
+    },
+    {
+      "id": 000000,
+      "status": "fail",
+      "data": {
+        "message": "Invalid DSW '000000'"
+      }
     }
   ]
 } 
